@@ -1,0 +1,26 @@
+{
+  "name": "nextproject1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pra4337/nextproject1.git"
+  },
+  "keywords": [],
+  "author": "Pra4337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pra4337/nextproject1/issues"
+  },
+  "homepage": "https://github.com/Pra4337/nextproject1#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
